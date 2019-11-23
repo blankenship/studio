@@ -75,7 +75,8 @@ website: 	http://blankenshipoffice.com
 		color: #222;
 		display: block;
 		font: 700 2vw/2.5vw "fleisch-wurst", sans-serif;
-		padding: 5vh 0;
+		text-align: left;
+		padding: 5vh 5vw;
 	}
 
 	h1 strong {
