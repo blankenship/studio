@@ -72,19 +72,19 @@ website: 	http://blankenshipoffice.com
 	    animation: hello 2s;
 		color: #222;
 		display: block;
-		font: 700 2vw/2.5vw "maple-web", sans-serif;
+		font: 700 2vw/2.5vw "fleisch-wurst", sans-serif;
 		padding: 5vh 0;
 	}
 
 	h1 strong {
-		font: 900 2vw/2.6vw "maple-web", sans-serif;
+		font: 900 2vw/2.6vw "fleisch-wurst", sans-serif;
 		letter-spacing: 2px;
 		text-transform: uppercase;
 	}
 
 	h2 {
 		color: #222;
-		font: 700 2vw/2vw "maple-web", sans-serif;
+		font: 700 2vw/2vw "fleisch-wurst", sans-serif;
 		padding-bottom: 2vw;
 	}
 
@@ -196,12 +196,12 @@ website: 	http://blankenshipoffice.com
 		}
 
 		h1 {
-			font: 700 3.75vw/4.75vw "maple-web", sans-serif;
+			font: 700 3.75vw/4.75vw "fleisch-wurst", sans-serif;
 			padding: 6vh 0;
 		}
 
 		h1 strong {
-			font: 900 3.75vw/4.75vw "maple-web", sans-serif;
+			font: 900 3.75vw/4.75vw "fleisch-wurst", sans-serif;
 			letter-spacing: 2px;
 		}
 
@@ -213,7 +213,7 @@ website: 	http://blankenshipoffice.com
 		}
 
 		h2 {
-			font: 700 5vmin/5vmin "maple-web", sans-serif;
+			font: 700 5vmin/5vmin "fleisch-wurst", sans-serif;
 			padding-bottom: 3vmin;
 		}
 
