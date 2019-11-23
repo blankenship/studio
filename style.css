@@ -113,9 +113,8 @@ website: 	http://blankenshipoffice.com
 	header {
 		background: #fff;
 		margin: 0 auto;
-		text-align: center;
 		padding: 0;
-		width: 50vw;
+		width: 100vw;
 	}
 
   	footer {
