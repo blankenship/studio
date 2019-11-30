@@ -80,6 +80,7 @@ website: 	http://blankenshipoffice.com
 	}
 
 	h1 strong {
+		display: block;
 		font: 900 4vw/2.5vw "opake", "fleisch-wurst", sans-serif;
 		text-transform: uppercase;
 	}
