@@ -73,9 +73,16 @@ website:    http://blankenship.xyz
         padding: 4em 0 8em;
    }
 
+    h1 {
+        color: #fff;
+        font: 400 2rem/2.5rem monotype-grotesque, helvetica, sans-serif;
+        padding-left: 2.5em;
+        max-width: 85%;
+    }
+
     h2 {
         color: #fcee21;
-        font: 400 2.5rem/3rem "miller-headline", Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 2rem/2.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         padding-left: 2.5em;
         max-width: 85%;
     }
