@@ -75,7 +75,7 @@ website:    http://blankenship.xyz
 
     h1 {
         color: #fcee21;
-        font: 400 2.5rem/3rem -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 2.5rem/3rem "miller-headline", Georgia, -apple-system-ui-serif, ui-serif, serif; 
        	text-shadow: 1px 1px #2e3192;
         padding-left: 2.5em;
         max-width: 85%;
