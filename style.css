@@ -104,7 +104,7 @@ website:    http://blankenship.xyz
     header a:hover { 
         color: #fff;  
     }
-    
+
 /* TYPOGRAPHY */
 
 
@@ -125,7 +125,6 @@ website:    http://blankenship.xyz
         display: grid;
         grid-template-columns: 30% 30% 30%;
         grid-gap: 5%;
-        padding: 5rem;
     }
 
     .quatro {
@@ -134,6 +133,8 @@ website:    http://blankenship.xyz
         grid-gap: 5%;
     }
 
+    figure { padding: 5rem; }
+    
     img { 
         display: block;
         margin: 0 auto;
