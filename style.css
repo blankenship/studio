@@ -76,9 +76,9 @@ website:    http://blankenship.xyz
     h1 {
         color: #fcee21;
         font: 400 2.5rem/3rem -apple-system-ui-serif, ui-serif, serif; 
-       	text-shadow: 1px 1px #fff;
-        padding-left: 1em;
-        max-width: 70%;
+       	text-shadow: 1px 1px #2e3192;
+        padding-left: 2.5em;
+        max-width: 85%;
     }
 
     h1::first-line { color: #fff; }
