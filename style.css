@@ -75,11 +75,10 @@ website:    http://blankenship.xyz
 
     h1 {
         color: #fcee21;
-        display: block;
-        font: 400 2.5rem/2.5rem -apple-system-ui-serif, ui-serif, serif; 
- 		font-family: 
+        font: 400 2.5rem/3rem -apple-system-ui-serif, ui-serif, serif; 
        	text-shadow: 1px 1px #fff;
         padding-left: 1em;
+        max-width: 70%;
     }
 
     h1::first-line { color: #fff; }
