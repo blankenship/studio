@@ -70,7 +70,7 @@ website:    http://blankenship.xyz
     header {
         background-color: #1b1464;
         margin: 0 auto;
-        padding: 4em 0 8em;
+        padding: 4em 0 6em;
    }
 
     h1 {
@@ -101,6 +101,10 @@ website:    http://blankenship.xyz
         padding-bottom: 2px;
     }
 
+    header a:hover { 
+        color: #fff;  
+    }
+    
 /* TYPOGRAPHY */
 
 
