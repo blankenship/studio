@@ -121,6 +121,7 @@ website:    http://blankenship.xyz
         display: grid;
         grid-template-columns: 30% 30% 30%;
         grid-gap: 5%;
+        padding: 5rem;
     }
 
     .quatro {
