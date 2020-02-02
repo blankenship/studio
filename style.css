@@ -75,10 +75,17 @@ website:    http://blankenship.xyz
 
     h1 {
         color: #fff;
-        font: 400 2rem/2.5rem monotype-grotesque, helvetica, sans-serif;
+        font: 900 2rem/2.5rem monotype-grotesque, helvetica, sans-serif;
+        margin-bottom: 5rem;
         padding-left: 2.5em;
         max-width: 85%;
     }
+
+    h1 strong {
+         font: 700 2rem/2.5rem monotype-grotesque-display-e, helvetica, sans-serif;
+         letter-spacing: 2px;
+         text-transform: uppercase;
+   }
 
     h2 {
         color: #fcee21;
