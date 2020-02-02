@@ -90,64 +90,6 @@ website:    http://blankenship.xyz
 
 /* TYPOGRAPHY */
 
-    h2 {
-        color: #393939;
-        font: 400 3rem/3rem "fakir-display-condensed-new", serif;
-        margin-bottom: 1.5rem;
-    }
-
-    nav h2 {
-        font: 700 2rem/2rem "fakir-display-new", sans-serif;
-    }
-
-    h3 {
-        color: #393939;
-        font: 400 2rem/2rem "fakir-display-new", serif;
-        margin-bottom: 4rem;
-    }
-
-    h3 span {
-        color: #696969;
-        display: block;
-        font: 700 1rem/1rem "covik-sans", sans-serif;
-        margin-top: 1rem;
-        letter-spacing: .2em;
-        text-transform: uppercase;
-    }
-    
-    h4 {
-        font: 400 2.5rem/2.5rem "fakir-small-caps-new", serif; 
-        margin-bottom: 1rem;
-    }
-
-    p {
-        font: 400 1.3rem/1.8rem "covik-sans", sans-serif;
-        text-indent: 2em;
-    }
-
-    main p:first-of-type {
-        font: 700 1.3rem/1.8rem "covik-sans", sans-serif;
-        text-indent: 0;
-    }
-
-    mark {
-        background-color: rgba(255, 224, 0, 0.7);
-        opacity: 1;
-        display: inline;
-        padding: 0.2rem 0;
-        -webkit-box-decoration-break: clone;
-        box-decoration-break: clone;
-    }
-   
-    footer {
-        margin: 0;
-        padding: 0;
-   }
-
-   footer p {
-        text-align: center;
-   }
-   
 
 /* SECTION -- DEM GRIDS */
 
@@ -174,7 +116,7 @@ website:    http://blankenship.xyz
         grid-gap: 5%;
     }
 
-    section figure img { 
+    img { 
         display: block;
         margin: 0 auto 1rem;
         width: 100%;
