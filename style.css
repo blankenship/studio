@@ -50,21 +50,6 @@ website:    http://blankenship.xyz
         margin: 0 auto;
     }
 
-    a { 
-        color: #393939;
-        display: inline-block;
-        text-decoration: none;
-    }
-
-    a:hover { 
-        color: silver;  
-    }
-
- .inset {
-        padding-right: 4em;
-        padding-left: 4em;
-    }
-
 /* HEADER */
 
     header {
@@ -75,7 +60,7 @@ website:    http://blankenship.xyz
 
     h1 {
         color: #fff;
-        font: 900 2rem/2.5rem monotype-grotesque, helvetica, sans-serif;
+        font: 400 2rem/2.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         margin-bottom: 2.5rem;
         padding-left: 2.5em;
         max-width: 70%;
@@ -108,7 +93,7 @@ website:    http://blankenship.xyz
 /* TYPOGRAPHY */
 
 
-/* SECTION -- DEM GRIDS */
+/* SECTION -- GRID */
 
     section {
         margin: 0 auto;
@@ -118,13 +103,7 @@ website:    http://blankenship.xyz
         display: grid;
         grid-template-columns: 28vw 28vw 28vw;
         grid-gap: 4vw;
-        padding: 4vw;
-    }
-
-    .quatro {
-        display: grid;
-        grid-template-columns: 21.25% 21.25% 21.25% 21.25%;
-        grid-gap: 5%;
+        padding: 4vw 4vw 2vw 4vw;
     }
 
     figure.uno { padding: 0; }
@@ -135,12 +114,6 @@ website:    http://blankenship.xyz
         width: 100%;
      }
 
-    section figcaption { 
-        color: #393939;
-        margin: 0 auto; 
-    }
-
-
 /* SECTION -- FOOTER */
 
     
@@ -148,34 +121,14 @@ website:    http://blankenship.xyz
 
         @media (min-width: 801px) and (max-width: 1000px) {
 
-            .quatro {
-                    display: grid;
-                    grid-template-columns: 45% 45%;
-                    grid-column-gap: 10%;
-                }
-
         }
 
         @media (min-width: 100px) and (max-width: 800px) {
 
-       
-
-        .tres,
-        .quatro {
+        .tres{
                 display: block;
                 margin: 0 auto;
                 padding: 0;
             }
 
         }
-
-
-#splash {
-    background: #393939;
-    padding-top: calc(50vh - 5rem);
-    }
-
-#splash h1, h3, a {
-    color: #d6d7cf;
-    text-align: center;
-    }
