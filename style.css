@@ -114,17 +114,11 @@ website:    http://blankenship.xyz
         margin: 0 auto;
     }
 
-    section ul li { display: inline; }
-
-    .dos {
-        display: grid;
-        grid-template-columns: 50% 50%;
-    }
-
     .tres {
         display: grid;
-        grid-template-columns: 30% 30% 30%;
-        grid-gap: 5%;
+        grid-template-columns: 30vw 30vw 30vw;
+        grid-gap: 5vw;
+        padding: 5vw;
     }
 
     .quatro {
@@ -133,7 +127,6 @@ website:    http://blankenship.xyz
         grid-gap: 5%;
     }
 
-    figure { padding: 5rem; }
     figure.uno { padding: 0; }
 
     img { 
