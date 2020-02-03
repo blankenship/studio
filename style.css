@@ -134,7 +134,8 @@ website:    http://blankenship.xyz
     }
 
     figure { padding: 5rem; }
-    
+    figure.uno { padding: 0; }
+
     img { 
         display: block;
         margin: 0 auto;
