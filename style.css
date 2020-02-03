@@ -116,9 +116,9 @@ website:    http://blankenship.xyz
 
     .tres {
         display: grid;
-        grid-template-columns: 30vw 30vw 30vw;
-        grid-gap: 5vw;
-        padding: 5vw;
+        grid-template-columns: 28vw 28vw 28vw;
+        grid-gap: 4vw;
+        padding: 4vw;
     }
 
     .quatro {
