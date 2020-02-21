@@ -114,7 +114,7 @@ website:    http://blankenship.xyz
 
     .thegrid {
         display: grid;
-        grid-template-columns: 25vw 25vw 25vw 25vw;
+        grid-template-columns: 33.333333vw 33.333333vw 33.333333vw;
         grid-gap: 0;
         padding: 0;
     }
