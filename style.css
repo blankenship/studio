@@ -126,6 +126,7 @@ website:    http://blankenship.xyz
      }
 
      header img {
+        display: block;
         margin: 0 0 3rem 0;
         padding-left: 10%;
         width: 10%;
