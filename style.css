@@ -127,9 +127,9 @@ website:    http://blankenship.xyz
 
      header figure img {
         display: block;
-        width: 25%;
+        width: 10%;
      }
-     
+
     .thegrid {
         display: grid;
         grid-template-columns: 33.333333vw 33.333333vw 33.333333vw;
