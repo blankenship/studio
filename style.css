@@ -125,6 +125,11 @@ website:    http://blankenship.xyz
         width: 100%;
      }
 
+     header figure img {
+        display: block;
+        width: 25%;
+     }
+     
     .thegrid {
         display: grid;
         grid-template-columns: 33.333333vw 33.333333vw 33.333333vw;
