@@ -55,13 +55,11 @@ website:    http://blankenship.xyz
 /* HEADER */
 
     header {
-        color: rgb(45, 45, 45);
         margin: 0 auto;
         padding: 4em 0 6em;
    }
 
     h1 {
-        color: #fff;
         font: 400 2.5rem/3rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         margin-bottom: 3rem;
         padding-left: 10%;
@@ -69,7 +67,6 @@ website:    http://blankenship.xyz
     }
 
     h1 strong {
-    	 color: #fcee21;
          font: 700 2rem/3rem monotype-grotesque-display-e, helvetica, sans-serif;
          letter-spacing: 2px;
          text-transform: uppercase;
@@ -81,7 +78,6 @@ website:    http://blankenship.xyz
    }
 
     h2 {
-         color: #fcee21;
          font: 700 1.5rem/2.25rem monotype-grotesque-display-e, helvetica, sans-serif;
         padding-left: 5%;
          max-width: 75%;
@@ -89,12 +85,10 @@ website:    http://blankenship.xyz
     }
 
     h2 em {
-        color: #fcee21;
         font: 400 italic 1.75rem/2.25rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
     header a {
-        color: #fcee21;
     }
 
     header a:hover { 
