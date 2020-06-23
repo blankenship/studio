@@ -56,7 +56,8 @@ website:    http://blankenship.xyz
 
     header {
         margin: 0 auto;
-        padding: 5rem;
+        width: 60vw;
+        padding: 5rem 20vw;
    }
 
     h1 {
@@ -110,8 +111,8 @@ website:    http://blankenship.xyz
 
      header figure img {
         display: block;
-        margin: 0 0 3rem 10%;
-        width: 7%;
+        margin: 0 0 3rem;
+        width: 10%;
      }
 
     .thegrid {
