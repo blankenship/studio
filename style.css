@@ -70,7 +70,7 @@ website:    http://blankenship.xyz
         background-color: rgba(99,99,209,0.8);
         opacity: 1;
         display: inline;
-        padding: .35rem 0;
+        padding: .3rem .1rem;
         -webkit-box-decoration-break: clone;
         box-decoration-break: clone;
     }
