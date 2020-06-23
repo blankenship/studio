@@ -61,7 +61,7 @@ website:    http://blankenship.xyz
    }
 
     h1 {
-        font: 400 2.5rem/3rem brevier, miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 2.5rem/3rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         margin-bottom: 3rem;
     }
 
@@ -71,11 +71,11 @@ website:    http://blankenship.xyz
    }
 
     h2 {
-        font: 400 1.25rem/1.5rem brevier, miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 1.25rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
     h2 em {
-        font: 400 italic 1.75rem/2.25rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 italic 1.25rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
     header a {
