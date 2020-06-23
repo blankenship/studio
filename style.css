@@ -67,7 +67,7 @@ website:    http://blankenship.xyz
         color: #6361d1;
         font: 400 1.6rem/3rem halyard-micro, sans-serif; 
         text-transform: uppercase;
-        background-color: rgba(255, 224, 0, 0.6);
+        background-color: rgba(99,99,209, 1.0);
         opacity: 1;
         display: inline;
         padding: .35rem 0;
@@ -76,13 +76,13 @@ website:    http://blankenship.xyz
     }
 
     h2 {
-        color: #6361d1;
+        color: #6363d1;
         font: 400 1.5rem/2rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         margin-bottom: 2rem;
     }
 
     h2 em {
-        color: #6361d1;
+        color: #6363d1;
         font: 400 1.25rem/2rem halyard-micro, sans-serif; 
     }
 
