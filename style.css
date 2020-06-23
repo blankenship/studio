@@ -53,8 +53,8 @@ website:    http://blankenship.xyz
 /* HEADER */
 
     header {
-        margin: 0 15vw;
-        width: 70vw;
+        margin: 0 10vw;
+        width: 80vw;
         padding: 5rem;
    }
 
@@ -70,14 +70,15 @@ website:    http://blankenship.xyz
 
     h2 {
         color: #fcee21;
-        font: 400 1.25rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 1.5rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
     h2 em {
-        font: 400 italic 1.25rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 italic 1.5rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
     header a {
+        color: #fcee21;
     }
 
     header a:hover { 
@@ -111,7 +112,7 @@ website:    http://blankenship.xyz
      header figure img {
         display: block;
         margin: 0 0 3rem;
-        width: 15vw;
+        width: 10vw;
      }
 
     .thegrid {
