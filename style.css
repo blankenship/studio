@@ -141,4 +141,14 @@ website:    http://blankenship.xyz
                 padding: 2rem;
            }
 
+
+         header figure img {
+            margin: 0 0 2rem;
+            width: 20vw;
+         }
+
+        h1 {
+            font: 400 2rem/2.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+            margin-bottom: 2.5rem;
         }
+    }
