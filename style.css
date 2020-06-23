@@ -65,8 +65,7 @@ website:    http://blankenship.xyz
 
     h1 em {
         color: #6361d1;
-        font: 200 1.65rem/3rem halyard-micro, sans-serif; 
-        letter-spacing: .1rem;
+        font: 400 1.5rem/3rem halyard-micro, sans-serif; 
         text-transform: uppercase;
     }
 
