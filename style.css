@@ -74,6 +74,7 @@ website:    http://blankenship.xyz
     }
 
     h2 em {
+        color: #6361d1;
         font: 400 italic 1.5rem/1.75rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
