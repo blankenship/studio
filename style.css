@@ -56,7 +56,7 @@ website:    http://blankenship.xyz
 
     header {
         margin: 0 auto;
-        padding: 4em 0 6em;
+        padding: 5rem;
    }
 
     h1 {
@@ -67,11 +67,6 @@ website:    http://blankenship.xyz
     h1 strong {
          letter-spacing: 2px;
          text-transform: uppercase;
-   }
-
-   h1::first-line {
-        display: block;
-        padding-left: 5%;
    }
 
     h2 {
