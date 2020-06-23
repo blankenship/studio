@@ -55,8 +55,8 @@ website:    http://blankenship.xyz
 /* HEADER */
 
     header {
-/*        background-color: #1b1464;
-*/        margin: 0 auto;
+        color: rgb(45, 45, 45);
+        margin: 0 auto;
         padding: 4em 0 6em;
    }
 
