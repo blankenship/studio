@@ -60,14 +60,11 @@ website:    http://blankenship.xyz
    }
 
     h1 {
-        font: 400 2.5rem/3rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 2.5rem/3rem sketchnote-square, miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         margin-bottom: 3rem;
-        padding-left: 10%;
-        max-width: 75%;
     }
 
     h1 strong {
-         font: 700 2rem/3rem monotype-grotesque-display-e, helvetica, sans-serif;
          letter-spacing: 2px;
          text-transform: uppercase;
    }
@@ -78,10 +75,7 @@ website:    http://blankenship.xyz
    }
 
     h2 {
-         font: 700 1.5rem/2.25rem monotype-grotesque-display-e, helvetica, sans-serif;
-        padding-left: 5%;
-         max-width: 75%;
-         margin-bottom: 2.25em;
+        font: 400 1.25rem/1.5rem sketchnote-square, miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
     h2 em {
