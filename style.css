@@ -43,10 +43,8 @@ website:    http://blankenship.xyz
     }
 
     body {
-        background-color: #2e3192;
-        background-color: rgb(240, 240, 240);
-        color: #393939;
-        color: rgb(45, 45, 45);
+        background-color: #1b1464;
+        color: #fff;
         line-height: 1.5;
         overflow-x: hidden;
         margin: 0 auto;
@@ -71,6 +69,7 @@ website:    http://blankenship.xyz
    }
 
     h2 {
+        color: #fcee21;
         font: 400 1.25rem/1.5rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
     }
 
