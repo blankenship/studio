@@ -64,7 +64,7 @@ website:    http://blankenship.xyz
     }
 
     h1 em {
-        font: 400 2rem/3rem halyard-micro, sans-serif; 
+        font: 400 1.5rem/3rem halyard-micro, sans-serif; 
     }
 
     h2 {
@@ -74,7 +74,7 @@ website:    http://blankenship.xyz
 
     h2 em {
         color: #6361d1;
-        font: 400 italic 1.5rem/2rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
+        font: 400 1rem/2rem halyard-micro, sans-serif; 
     }
 
     header a {
