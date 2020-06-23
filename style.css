@@ -44,7 +44,9 @@ website:    http://blankenship.xyz
 
     body {
         background-color: #2e3192;
+        background-color: rgb(240, 240, 240);
         color: #393939;
+        color: rgb(45, 45, 45);
         line-height: 1.5;
         overflow-x: hidden;
         margin: 0 auto;
