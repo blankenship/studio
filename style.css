@@ -135,4 +135,10 @@ website:    http://blankenship.xyz
                 padding: 0;
             }
 
+          header {
+                margin: 0 5vw;
+                width: 90vw;
+                padding: 2rem;
+           }
+
         }
