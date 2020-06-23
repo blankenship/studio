@@ -55,9 +55,9 @@ website:    http://blankenship.xyz
 /* HEADER */
 
     header {
-        margin: 0 auto;
+        margin: 0 20vw;
         width: 60vw;
-        padding: 5rem 20vw;
+        padding: 5rem;
    }
 
     h1 {
