@@ -67,6 +67,12 @@ website:    http://blankenship.xyz
         color: #6361d1;
         font: 400 1.6rem/3rem halyard-micro, sans-serif; 
         text-transform: uppercase;
+        background-color: rgba(255, 224, 0, 0.6);
+        opacity: 1;
+        display: inline;
+        padding: .35rem 0;
+        -webkit-box-decoration-break: clone;
+        box-decoration-break: clone;
     }
 
     h2 {
