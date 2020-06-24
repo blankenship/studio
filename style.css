@@ -53,8 +53,8 @@ website:    http://blankenship.xyz
 /* HEADER */
 
     header {
-        margin: 0 12vw;
-        width: 76vw;
+        margin: 0 10vw;
+        width: 80vw;
         padding: 4rem 6rem;
    }
 
@@ -79,6 +79,7 @@ website:    http://blankenship.xyz
         color: #6363d1;
         font: 400 1.5rem/2rem miller-headline, Georgia, -apple-system-ui-serif, ui-serif, serif; 
         margin-bottom: 2rem;
+        width: 75%;
     }
 
     h2 em {
