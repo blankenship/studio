@@ -83,8 +83,10 @@ website:    http://blankenship.xyz
     }
 
     h2 em {
-        color: #6363d1;
-        font: 400 1.25rem/2rem halyard-micro, sans-serif; 
+        border-bottom: .4rem solid #6363d1;
+        font: 200 1.25rem/2rem halyard-micro, sans-serif; 
+        text-decoration: none;
+        padding-bottom: .2rem;
     }
 
     header a {
