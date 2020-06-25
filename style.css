@@ -87,13 +87,11 @@ website:    http://blankenship.xyz
     }
 
     header a {
-    border-bottom: .1rem solid #6363d1;
-    color: #6363d1;
-    text-decoration: none;
+        color: #fff;
    }
 
     header a:hover { 
-        color: #fff;  
+        color: #6363d1;  
     }
 
 /* TYPOGRAPHY */
